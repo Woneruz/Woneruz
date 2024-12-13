@@ -6,10 +6,7 @@ Cześć! 👋 Mam na imię Arkadiusz Baran  🚀
 
 ## 🧐 Kilka słów o mnie:
 - 🎓 Jestem studentem AGH
-- 💻 Uwielbiam pisać kod w takich językach jak: **Python**, **C++**, **JavaScript**.
-- 🧠 Uczę się technologii: **Django**, **React**, **Docker**, **CI/CD**.
-- 🌱 Właśnie zgłębiam: [co aktualnie zgłębiasz, np. "sztuczną inteligencję i machine learning"].
-- 🎮 Hobbystycznie tworzę gry i aplikacje, bawiąc się takimi bibliotekami jak **Pygame** i **Unity**.
+- 🌱 Właśnie zgłębiam: TECHNIKI ZDANIA STUDIÓW
 
 ---
 

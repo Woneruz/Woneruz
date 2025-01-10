@@ -6,7 +6,7 @@ Cześć! 👋 Mam na imię Arkadiusz Baran  🚀
 
 ## 🥰 O to moja Super Strona 🥰
 - 😯 **[Strona](https://woneruz.github.io/)** 😯
-- 💅 **[Strona w ramach innej usługi](https://woneruz.github.io/)** 🫡
+- 💅 **[Strona w ramach innej usługi](https://qwoneruzq.wixsite.com/super-strona/post/o-to-super-strona-arka)** 🫡
 
 ---
 

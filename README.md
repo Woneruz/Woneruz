@@ -5,7 +5,8 @@ Cześć! 👋 Mam na imię Arkadiusz Baran  🚀
 ---
 
 # 🥰 Super strona 🥰
-**[Strona](https://woneruz.github.io/)**
+😯 **[Strona](https://woneruz.github.io/)** 😯
+🫡💅 **[Strona w ramach innej usługi](https://woneruz.github.io/)** 💅🫡
 
 ---
 

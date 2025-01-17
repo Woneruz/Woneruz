@@ -10,6 +10,13 @@ Cześć! 👋 Mam na imię Arkadiusz Baran  🚀
 
 ---
 
+## ✨ Artykuł i jego fork 💅
+- 😃 **[Artykuł który mnie zaciekawił](https://arxiv.org/pdf/2310.09423v2)** 😊
+- ✨ **[Link do mojego forka](https://github.com/Woneruz/QUIC-is-not-Quick.git)** ✨
+- 😋 **[Link do zagadnienia na papers with code](https://cs.paperswithcode.com/paper/quic-is-not-quick-enough-over-fast-internet)** 👌
+- 
+---
+
 ## 🧐 Kilka słów o mnie:
 - 🎓 Jestem studentem AGH
 - 🌱 Właśnie zgłębiam: TECHNIKI ZDANIA STUDIÓW

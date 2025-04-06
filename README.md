@@ -1,6 +1,6 @@
-## 🧐 Kilka słów o mnie:
-- 🎓 Jestem studentem AGH
-- 🌱 Właśnie zgłębiam: TECHNIKI ZDANIA STUDIÓW
+## 🧐 A few words about me:
+- 🎓 I am a student at AGH
+- 🌱 I am currently exploring: TECHNIQUES OF PASSING STUDIES
 
 ---
 

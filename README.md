@@ -4,14 +4,6 @@
 
 ---
 
-## 📬 Kontakt:
-💌 Możesz mnie znaleźć tutaj:
-- **E-mail:** [TAK TO MÓJ EMAIL]  
-- **LinkedIn:** [A TO BYŁBY MÓJ LINEDIN]  
-- **GitHub:** [github.com/Woneruz](#)
-
----
-
 *"Follow what drives you"* 🌟
 
 ---

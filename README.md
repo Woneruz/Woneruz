@@ -22,6 +22,5 @@
 
 ## Skontaktuj się ze mną
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](link do profilu LinkedIn)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](link do profilu Twitter)
-[![E-mail](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:twój@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arkadiusz-baran-413bb22b7/)
+[![E-mail](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](arkadiuszbaran1337@gmail.com)

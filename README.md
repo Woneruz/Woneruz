@@ -4,9 +4,7 @@
 
 ## O mnie
 
-- 🌱 Uczę się: **ICT**
-- 📫 Jak się ze mną skontaktować: ****
-- ⚡ Ciekawostka: ****
+- 🌱 Studiuję: **ICT**
 
 
 ## Statystyki GitHub

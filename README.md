@@ -9,25 +9,25 @@
 
 ---
 
-## About me
+## ⚡ About me
 
-- 🌱 I Study: **ICT** at AGH UST
+- 🌱 I Study: **ICT** at **AGH UST**
 
-## GitHub Stats
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Woneruz&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woneruz&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Woneruz&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Woneruz&layout=compact&theme=radical" height="160" alt="Top Languages" />
 </p>
 
-
-## Contact me
+## 📫 Contact me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arkadiusz-baran-413bb22b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:arkadiuszbaran1337@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
@@ -35,6 +35,4 @@
 
 ---
 
-Do what makes you feel alive.
-
-
+<p align="center">Do what makes you feel alive.</p>

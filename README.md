@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=Arkadiusz%20Baran&fontSize=50&fontColor=e8855a&animation=fadeIn&fontAlignY=38&fontFamily=Cinzel" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8855A&center=true&vCenter=true&width=480&lines=Networking+%7C+Linux+%7C+Databases;Studying+ICT+%40+AGH+UST+%F0%9F%8E%93;Do+what+makes+you+feel+alive.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8855A&center=true&vCenter=true&width=480&lines=Networking+%7C+Linux+%7C+Databases;Studying+ICT+%40+AGH+UST;Do+what+makes+you+feel+alive.)](https://git.io/typing-svg)
 
 </div>
 
